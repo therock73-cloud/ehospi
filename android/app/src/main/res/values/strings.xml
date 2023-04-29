@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">eHospi</string>
+    <string name="facebook_app_id">778867880230945</string>
+    <string name="facebook_client_token">450acc3124a360c99899753dca2ba1a4</string>
+<!--      <string name="facebook_app_id">1377668876366306</string> -->
+<!--     <string name="facebook_client_token">450acc3124a360c99899753dca2ba1a4</string>-->
+    <string name="server_client_id">443745298239-39up8ld3e67th8ft67t8bu6fa6da39fb.apps.googleusercontent.com</string>
+</resources>

@@ -1,0 +1,1 @@
+exports.facebookurl = "http://10.0.2.2:7020/auth/facebook";

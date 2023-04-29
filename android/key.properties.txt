@@ -1,0 +1,4 @@
+storePassword=Mart2020@@
+keyPassword=Mart2020@@
+keyAlias=easylife
+storeFile=easylifestore-keystore.jks

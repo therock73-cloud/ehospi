@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "528214311041",
+    "project_id": "ehospi-f69e6",
+    "storage_bucket": "ehospi-f69e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528214311041:android:1d96720a75e9f22d49cd80",
+        "android_client_info": {
+          "package_name": "com.easywellness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528214311041-2ij0punf7o9cjv6goejmn50v62upq1mi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.easywellness",
+            "certificate_hash": "9826b372bbff5e5103cb8881a69692749fdf6201"
+          }
+        },
+        {
+          "client_id": "528214311041-1s8esbv9d96b3smg05drk4u4ue2in3pb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoDoX1GWYqYwTvnAt-jriWVruLMFXqiS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528214311041-1s8esbv9d96b3smg05drk4u4ue2in3pb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
