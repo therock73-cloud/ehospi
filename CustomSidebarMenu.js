@@ -381,7 +381,7 @@ const CustomSidebarMenu = props => {
                           Book Hospital Bed
                         </Text>
                       </TouchableOpacity>
-                      <TouchableOpacity
+                      {/* <TouchableOpacity
                         onPress={() =>
                           props.navigation.navigate('LabTest', {
                             currentlat: currentlat,
@@ -396,8 +396,8 @@ const CustomSidebarMenu = props => {
                           />{' '}
                           Order Lab Test
                         </Text>
-                      </TouchableOpacity>
-                      <TouchableOpacity
+                      </TouchableOpacity> */}
+                      {/* <TouchableOpacity
                         onPress={() =>
                           props.navigation.navigate('AmbulanceMapScreen', {
                             currentlat: currentlat,
@@ -412,7 +412,7 @@ const CustomSidebarMenu = props => {
                           />{' '}
                           Ambulance Booking
                         </Text>
-                      </TouchableOpacity>
+                      </TouchableOpacity> */}
                       {/* <TouchableOpacity
                         onPress={() => props.navigation.navigate('Medicines')}>
                         <Text style={styles.DsubTitle}>

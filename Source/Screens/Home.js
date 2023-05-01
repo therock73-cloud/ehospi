@@ -746,7 +746,7 @@ const Home = ({navigation}) => {
                       })
                     }
                   />
-                  <BedReact
+                  {/* <BedReact
                     title="Lab Tests"
                     image={Flask}
                     onPress={() =>
@@ -767,7 +767,7 @@ const Home = ({navigation}) => {
                         });
                       }
                     }}
-                  />
+                  /> */}
                   {/* <BedReact
                   title="Medicines"
                   image={Medicine}
